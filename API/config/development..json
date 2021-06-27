@@ -1,0 +1,5 @@
+{
+  "db": "mongodb://localhost/final",
+  "jwtPrivateKey": "hello",
+  "myenvironment": "Development"
+}
